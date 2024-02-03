@@ -1,0 +1,30 @@
+.investor-dashboard {
+    padding: 20px;
+  }
+  
+  .startup-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .startup-details {
+    flex-grow: 1;
+  }
+  
+  .toggle-interest-btn {
+    cursor: pointer;
+    padding: 5px 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+  }
+  
+  .toggle-interest-btn:hover {
+    background-color: #45a049;
+  }
+  
